@@ -36,3 +36,9 @@ body{
 #vastausalue button:hover {
     background-color: lightgray;
 }
+
+@media (min-width:600px) {
+    #vastausalue button{
+        witdh: 80%;
+    }
+}
