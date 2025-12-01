@@ -4,7 +4,7 @@
 
 body{
     background-color: #3f7cc5;
-
+    background-image: url(images_etc/clouds.jpg);
 }
 #kysymysalue {
     border: 1px solid #000;
